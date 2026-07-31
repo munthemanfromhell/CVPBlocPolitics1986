@@ -1,0 +1,11 @@
+Bloc Politics 1986 mockup v1 validation
+========================================
+JSON parsed: YES
+Scenes: 17
+JavaScript bodies compiled: YES (17 checked)
+Reichstag seats: 600/600
+Scene links resolved: YES
+Background asset included: YES
+Library categories included: 9
+Library restart option included: YES
+Overall: PASS
