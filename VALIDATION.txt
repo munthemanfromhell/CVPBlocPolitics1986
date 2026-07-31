@@ -1,0 +1,12 @@
+Bloc Politics 1986 mockup v6 structural validation
+===================================================
+JSON parsed: YES
+Scenes: 25
+JavaScript bodies compiled: YES (18 checked)
+Native special-scene skeleton restored: YES
+Special placeholders match working France mockup: YES
+Native root election option retained: YES
+Playable scene order rebuilt: YES
+Overall structural result: PASS
+
+Note: structural validation is not being represented as browser execution.
